@@ -19,5 +19,7 @@ void displayluas() {
 }
 
 int main() {
-	
+	inputdata();
+	hitungluas();
+	displayluas();
 }
