@@ -14,7 +14,9 @@ int hitungluas() {
 	return panjang * lebar;
 }
 
-
+void displayluas() {
+	cout << "Luasnya Adalah : " << hitungluas() << endl;
+}
 
 int main() {
 	
