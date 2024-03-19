@@ -16,6 +16,8 @@ int main()
         cout << "Masukkan Nilai index ke-" << i << ": ";
         cin >> arr[i];
     }
-    
+    for (i = 0; i < 5; i++) {
+        cout << "Data Array ke-" << i << ": " << arr[i] << endl;
+    }
     
 }
