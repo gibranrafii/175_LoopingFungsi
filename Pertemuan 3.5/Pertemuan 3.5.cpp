@@ -17,6 +17,8 @@ void display() {
 }
 
 int main() {
-   
+    inputdata();
+    hitungluas();
+    display();
 }
     
