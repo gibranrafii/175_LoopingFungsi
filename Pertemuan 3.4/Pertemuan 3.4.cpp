@@ -10,6 +10,12 @@ void inputdata() {
 	cin >> lebar;
 }
 
+int hitungluas() {
+	return panjang * lebar;
+}
+
+
+
 int main() {
 	
 }
